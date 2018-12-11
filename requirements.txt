@@ -1,0 +1,4 @@
+connexion[swagger-ui]>=1.0
+python-jose[cryptography]
+six>=1.9
+Flask>=0.10.1
